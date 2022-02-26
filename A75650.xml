@@ -1,0 +1,575 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of accusation and impeachment of the House of Commons, and all the Commons of England against VVilliam Pierce Doctor of Divinitie and Bishop of Bath and Wells.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75650</idno>
+            <idno type="STC">Wing A3832</idno>
+            <idno type="STC">Thomason E238_25</idno>
+            <idno type="STC">ESTC R19350</idno>
+            <idno type="EEBO-CITATION">99860644</idno>
+            <idno type="PROQUEST">99860644</idno>
+            <idno type="VID">158236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75650)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158236)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E238[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of accusation and impeachment of the House of Commons, and all the Commons of England against VVilliam Pierce Doctor of Divinitie and Bishop of Bath and Wells.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Thomlinson, and are to be sold in the Old-Baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The impeachment took place in August 1641.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Piers, William, 1580-1670 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158236:1" rendition="simple:additions"/>
+            <p>ARTICLES OF ACCVSATION AND IMPEACHMENT Of the Houſe of Commons,
+and all the Commons of ENGLAND <hi>AGAINST</hi> VVilliam Pierce Doctor of
+Divinitie and Biſhop of <hi>Bath and Wells.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Thomlinſon,</hi> and are
+to be ſold in the <hi>Old-Baily.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158236:2"/>
+            <pb facs="tcp:158236:2"/>
+            <head>Articles of Accuſation and impeachment by the Comons Houſe
+of <hi>Parliament</hi> againſt <hi>Wil<g ref="char:EOLhyphen"/>liam Pierce,</hi> Doctor of Divinity,
+and Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+            </head>
+            <p n="1">1.<seg rend="decorInit">T</seg>Hat hee hath by his owne arbitrary power againſt Law
+ſince he was Biſhop of Bath and wells (being about ten yeares ſpace) of
+purpoſe to keepe the peo<g ref="char:EOLhyphen"/>ple in ignorance, and hinder the Salvation of their
+Soules which he ſhould promote, ſuppreſſed all Le<g ref="char:EOLhyphen"/>ctures within his
+Dioceſſe, both in Market Townes and elſewhere, aſwell thoſe that the
+Miniſters kept in their ſeverall cures, as others that were maintained by
+ſeverall yearely ſtipends (given by the founders) our of their piety and
+devotion, for ſuch goodneſſe or by the voluntary aſſiſtance of
+neighbour Miniſters; ſome of which 
+<note n="*" place="margin">Among theſ he hath ſupper<g ref="char:EOLhyphen"/>ſed the
+ancient weekly lecture at the City of Bath, whither many Nobles, and other
+ſtrangers ro<g ref="char:EOLhyphen"/>ſort, eſpecially in the ſpring and fall, who by reaſon
+of their ſickneſſe, both deſire &amp; need preach<g ref="char:EOLhyphen"/>ing for the
+con<g ref="char:EOLunhyphen"/>ſolation &amp; in<g ref="char:EOLhyphen"/>ſtruction of their ſoules, of which now they are
+there deſtitute, to their great diſ<g ref="char:EOLhyphen"/>comfort.</note> Lectures had continued
+for 50.40.30. yeares, without interruption, and where countenanced by his
+predeceſſors, who uſed to preach at ſome of them in their turnes.</p>
+            <p n="2">2. That in ſtead of incouraging he hath ſuſpended,
+excommunica<g ref="char:EOLhyphen"/>ted and otherwiſe vexed the ſaid Lectures; glorying in this
+ſo doing <hi>and thanking God that he had not a Lecture left in all his
+Dioceſſe;</hi> the very name whereof he ſa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d he diſliked, and affirmed unto <hi>Maſter
+Cun<g ref="char:EOLhyphen"/>nant</hi> a Miniſter, who deſired a continuance of a Lecture, that hee
+would not leave one within his Dioceſſe; the B<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhop alleadging, that though there was neede of
+Preaching in the infancy of the Church of the Apo<g ref="char:EOLhyphen"/>ſtles time, yet now their
+was no ſuch neede; and thereupon required the ſaid Miniſter upon his
+Canonicall obedience, not to Preach: and in like ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ner he dealt with many other godly Miniſters within his
+Dioceſſe. And in par<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icular he
+ſuſpended Maſtere <hi>Deveniſh</hi> the Miniſter of
+<hi>Bridge<g ref="char:EOLhyphen"/>water,</hi> for preaching t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Lecture in his owne Church on the market day there, (which Lecture
+had continued from Queene <hi>Elizabeths</hi> time till then;) and refuſed to
+abſolve him, till he had promiſed never to preach it more; upon which
+promiſe, the ſaid Biſhop abſolved him with this admonition of our
+Saviour, moſt prophanely applyed,<note n="*" place="margin">Iohn 5.14. I dare
+ſay no Commentator whatſoever, e<g ref="char:EOLhyphen"/>ver made ſo ill an application of this
+Text.</note> 
+               <hi>Goe thy way ſin no more, leaſt a worſe thing happen to
+thee.</hi> And not content to put downe Lectures in his own Dioceſſe, he
+hath indeavored the ſuppreſſion of them in others by conventing ſome
+miniſters of his Dioceſſe before him, as namely one Maſter
+<hi>Cunnant</hi> and Maſter <hi>Stickland</hi>) and threat<g ref="char:EOLhyphen"/>ning to
+ſuſpend them for preaching their turnes at Lectures in other Di<g ref="char:EOLhyphen"/>oceſſes
+neere them.</p>
+            <pb n="4" facs="tcp:158236:3"/>
+            <p n="3">3. That in oppoſition to Preaching, and the Sirituall cood
+of the peo<g ref="char:EOLhyphen"/>ples Soules,<note n="*" place="margin">It appears by Act, 20.20.31.
+Act. 2 46.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. &amp; 4. &amp; 5. Lu.
+21 37.38. Ioh. 8 22.19.47.2, tim 4.2. by Baſil. Magnus Hexa<g ref="char:EOLhyphen"/>emeron. Hom. 2.7
+8.9. &amp; Hom. in Pſal. 114. by Saint Chry<g ref="char:EOLhyphen"/>ſoſtom. Hom. 10.22. &amp; 34.
+in Gen. Ad Pop. Antioch. Hom. 19.13. &amp; 5. De ſaceidotio. l. 6. hom. de
+Laza<g ref="char:EOLhyphen"/>ro. by Auguſti Concio. 2. in Pſal. 68. Tract. 16.18. &amp; 21. in
+Ioan. and o<g ref="char:EOLhyphen"/>ther Fathers, that Chriſt, his Apoſtles, and the Fathers
+preached eve<g ref="char:EOLhyphen"/>ry day, and forenoone and afternoone on the Lo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds day, how dare then this prelate thus
+to affront their practiſe?</note> he hath moſt impiouſly, and againſt
+Law put downe all af<g ref="char:EOLhyphen"/>ternoone Sermons on the Lords day, throughout his
+Dioceſſe, and char<g ref="char:EOLhyphen"/>ged the Miniſters both publique in his viſitation,
+and privately, <hi>not to preach at all on the Lords day on the afternoone,
+upon any occaſion un<g ref="char:EOLhyphen"/>der paine of ſuſpenſion:</hi> after which charge
+he ſuſpended one Maſter <hi>Cor<g ref="char:EOLhyphen"/>niſh</hi> a Miniſter, onely for
+preaching a funera<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Sermon on a
+Lords day Evening.</p>
+            <p n="4">4. That divers godly Miniſters of his Dioceſſe, being
+reſtrained from Preaching did thereupon take great paines, to Chatechiſe
+the people in the principals of Religion, on the Lords day in the afterno<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, enlarg<g ref="char:EOLhyphen"/>ing themſelves upon the
+queſtions and anſwers of the Catechiſme, in the Common-prayer booke, for
+the peoples better inſtruction, uſing ſome ſhort prayers before or
+after that exerciſe: of which the ſaid Biſh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p ha<g ref="char:EOLhyphen"/>ving in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elligence conven<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the
+ſaid Miniſters before him, reproving them ſharpely for the ſame,
+threatning to puniſh them if they perſiſted in that way, which he ſaid,
+<hi>was a Chatechiſme Sermon-wiſe, and as if they preached;</hi> charging
+them <hi>that they ſhould aske no queſtions, nor re<g ref="char:EOLhyphen"/>ceive any other
+anſwers from the people but ſuch as were contained in the Catechiſme in
+the Service booke,</hi> which ſome not obſerving, were con<g ref="char:EOLhyphen"/>vented threupon
+before the ſaid Biſhop, and puniſhed, as namely Maſter <hi>Barret</hi>
+Rector of <hi>Barwick,</hi> who was enjoyned Penance for tranſgreſ<g ref="char:EOLhyphen"/>ſing
+the Biſhops ſaid order; and likewiſe <hi>Humphrey Blake,</hi>
+Church<g ref="char:EOLhyphen"/>warden of <hi>Bridgewater,</hi> was enjoyned penance by the Biſhop,
+for not preſenting Maſter <hi>Deveniſh</hi> Miniſter there, <hi>for
+that he expounded upon the Church-Catechiſme on the Lords day in the
+afternoone, and made a ſhort prayer before he began the ſame;</hi> the
+Biſhop alleaging, that it was againſt his order and command, as is
+aboveſaid.</p>
+            <p n="5">5. That he hath both by precept &amp; example moſt
+prophanely oppoſed the due ſanctification of the Lords day, by approving
+and allowing of prophane Wakes and Revels on that day, contrary to the Lawes
+and Sta<g ref="char:EOLhyphen"/>tutes of this Realme, for which purpoſe he<note n="*" place="margin">O
+prophane Impiety and Iniuſtice, to puniſh mini<g ref="char:EOLhyphen"/>ſters for prea<g ref="char:EOLhyphen"/>ching,
+Catechi<g ref="char:EOLhyphen"/>ſing, and doing that which God enioynes them.</note> 
+               <hi>commanded
+afternoone ſer<g ref="char:EOLhyphen"/>vice on the Lords day not to be long, that ſo the people
+might not bee hin<g ref="char:EOLhyphen"/>dred from their Recreations;</hi> preſſed and injoyned
+all the Miniſters in his Dioceſſe in their proper perſons, to reade the
+booke of ſports, in their ſeverall pariſh Churches, in the middeſt of
+Divine Service at morning prayer on the Lords day, contray to the words, and
+perport of the ſaid booke, which ſome Miniſters (as Maſter <hi>Humphry
+Chambers,</hi> and Ma<g ref="char:EOLhyphen"/>ſter <hi>Thomas</hi> refuſing to doe,<note n="*" place="margin">Impiety and prophaneneſſe which no age can patterne, many
+miniſter have been ſuſ<g ref="char:EOLhyphen"/>pended and cenſured for ſhortning the Service,
+that they might preach the longer, and yet they are commanded to cor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al it by this Biſhop, that the people
+might have more time to play in Gods own day</note> he therefore ſuſpended
+them both from their Office and Benefice and kept them excommunicated for
+divers yeares, notwithſtanding the ſaid booke was by the Biſhops Order
+publiſhed in their churches by others he convented the miniſters of
+<hi>Beererockham</hi> be<g ref="char:EOLhyphen"/>fore him for <hi>having two Sermons on the ſaid
+pariſh Revell day,</hi> alleadging <pb n="5" facs="tcp:158236:3" rendition="simple:additions"/>
+               <hi>that it was a
+hinderance, to the ſaid Revell, and to the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the Church-Ale, provided to
+be ſpent on that day.</hi> He converted and puni<g ref="char:EOLhyphen"/>ſhed one Maſter
+<hi>Thomas <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ford</hi> a Miniſter,
+for Preaching at the Pariſh of <hi>Mountagu,</hi> upon the Revell day upon
+the Praphet <hi>Ioels</hi> exhortation, <hi>to faſting, weeping and
+mourning,</hi> charging him, <hi>that not onely his Ser<g ref="char:EOLhyphen"/>mon, but his very Text
+was</hi>
+               <note n="*" place="margin">A pious,
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>pall reaſon, fit<g ref="char:EOLhyphen"/>ter for an
+Ale<g ref="char:EOLhyphen"/>wife then a Bi<g ref="char:EOLhyphen"/>ſhop an A<g ref="char:EOLhyphen"/>theiſt then a Prelate.</note> 
+               <hi>ſcandalous
+to the Revell, and gave offence to the meeting.</hi> And or the ſame
+reaſon, the ſaid Biſhop commanded the ſaid Church-warde's of the
+Pariſh of <hi>Batcombe,</hi> to blot out of the Church wall, this Text of
+Scripture therein written, taken out of <hi>Eſay</hi> 58.13.14.<note n="*" place="margin">O blaſphemy why was not the Revell ra<g ref="char:EOLhyphen"/>ther ſcanda<g ref="char:EOLhyphen"/>lous to the
+text.</note> 
+               <hi>If thou turne away thy foote from the Sabboth, from doing thy
+pleaſure on my holy day, and call the Sabbath a delight, the holy of the Lord
+honorable, and ſhalt honour him, not doing the owne waie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s nor finding thine owne pleaſure, nor ſpeaking thine
+owne words, then ſhalt thou delight thy ſelfe in the Lord; and I will
+cauſe thee to ride upon the high places of the earth and feede thee with
+heritage of</hi> Jacob <hi>thy Father, for the mouth of the Lord hath ſpoken
+it.</hi> And he likewiſe cauſed to be raſed out this clauſe in
+<hi>Doctor Biſſe</hi> his monument in that Church, formerly P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtor there; he was an enemy to
+heatheniſh Revell. To countenance which Revells, the ſaid Biſhop (in
+oppoſition to the orders of the Judges of Aſſiſe, and Juſtices of
+Peace of <hi>Somerſet-ſhire,</hi> for the ſuppreſſing of Sports and
+Revells and their Petition to the King, to that purpoſe) did call before him
+divers miniſters of his Dioceſſe and preſented unto them a writing in
+approbation and commendations of the ſaid ſports and Re<g ref="char:EOLhyphen"/>vells, whereupon
+many of the ſaid Miniſters ſubſcribed their names, by the Biſhops
+perſwaſions, which writing the ſaid Biſhop ſent up to the
+<hi>Archbiſhop of Canterbury,</hi> who after the receipt thereof
+ſuppreſſed the Juſtices Petition. And partly after the booke for
+ſports and Revells on the Lords day was publiſhed.</p>
+            <p n="6">6. That hee hath both by example and cammand, contrary to
+the Lawes of the Land, introduced into all or moſt Churches in his
+Dioceſſe ſundry Innovations in the Rives and Ceremonies of the Church,
+and o<g ref="char:EOLhyphen"/>ther new inventions of his owne, tending to Popery and Superſtition:
+(as namely, ſetting up of Alters, and enjoyning the ſeats about them to be
+taken away, ſaying,<note n="*" place="margin">O the deſpe<g ref="char:EOLhyphen"/>rate impiety and
+prophane<g ref="char:EOLhyphen"/>neſſe of this Biſhop, who might as well obliterate this
+Scripture out of the Bible, as out of the Church wall. This ſpeech he
+borrowed from Canterbury, who might doe well to prove that God al<g ref="char:EOLhyphen"/>mighty ſits
+ac<g ref="char:EOLhyphen"/>tually on the Lords Table, &amp; that as well when there is no Communi<g ref="char:EOLhyphen"/>on
+there, as when there is.</note> 
+               <hi>none ſhall ſit equall with or above God
+Al<g ref="char:EOLhyphen"/>mighty;</hi> bowing and crin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing
+to the ſaid Altars, (and reading the ſe<g ref="char:EOLhyphen"/>cond and third ſervice at the
+Alter) and enjoyned the ſtrict obſervation of them under the heavieſt
+Cenſures of the Church; in ſo much that the Communion Table of
+<hi>Stretton</hi> in his Dioceſſe, which he had cauſed to be railed in
+Altarwiſe, being brought downe againe in his former place and not turned to
+the Eaſt, thereupon no Communion was there permitted to the Pariſhioners on
+<hi>Palme-Sunday</hi> and <hi>Eaſterday</hi> 1637. the miniſter having
+received <hi>an Order</hi> from the ſaid Biſhop, 
+<note n="*" place="margin">O monſtrous ſuperſtition
+ſa<g ref="char:EOLhyphen"/>criledge &amp; im<g ref="char:EOLhyphen"/>piety, to de<g ref="char:EOLhyphen"/>prive the peo<g ref="char:EOLhyphen"/>ple of the Sa<g ref="char:EOLhyphen"/>crament,
+be<g ref="char:EOLhyphen"/>cauſe the Table ſtood not after his new
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ancy No age I am certain yeelds
+ſuch a preſi<g ref="char:EOLhyphen"/>dent.</note> 
+               <hi>not to ad<g ref="char:EOLhyphen"/>miniſter the Communion untill the
+Table was againe ſet up Alterwiſe:</hi> and cauſed deverſe to be
+puniſhed for not ſtanding up at the Goſpel and <hi>Gloria Patri.</hi> And
+he hath likewiſe forced divers pariſhes, as <hi>Tanto Shep<g ref="char:EOLhyphen"/>ton Mallet,</hi>
+and others, to their intolerable coſt, to ſet up <hi>Organs,</hi> 
+               <pb n="4" facs="tcp:158236:4"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="5" facs="tcp:158236:4" rendition="simple:additions"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="6" facs="tcp:158236:5"/>
+               <note n="*" place="margin">It ſeemes his Lordſhip
+de<g ref="char:EOLhyphen"/>lighted more in piping then preaching, and will have men goe merrily dancing
+not mouthing to heaven.</note> where there were none at all, or not a long time
+before; cauſing the Churchwarden, to levie mony towards the building of them,
+upon the Pariſhioners againſt their wills and puniſhing them in his
+Eccleſiaſti<g ref="char:EOLhyphen"/>call Court that would not pay towards them, and that hee hath
+put the County of <hi>Somerſet</hi> to exceſſive oxpences, by reaſon of
+ſuch Innovations as aforeſaid.</p>
+            <p n="7">7. That he hath contrary to Law, vexed and moleſted in his
+Eccleſia<g ref="char:EOLhyphen"/>ſticall Courts divers of the Clergy and Laity of his Dioceſſe
+for triviall and ſmall matters; excommunicated and vexed divers
+Churchwardens, for not rayling in the communion Table, and placing it
+Alterwiſe againſt the Eaſt wall of the Chancell; and by name, the
+Churchwardens of <hi>Beck<g ref="char:EOLhyphen"/>ington;</hi> whom he not excommunicated, but
+likewiſe cauſed them and o<g ref="char:EOLhyphen"/>thers to be unjuſtly indicted at the open
+Aſſizes held in the County in Lent, 1636. as for a Riot in hindring the
+removing of the Table in that Church putting the ſaid Pariſh to the expence
+of 1800. pound or more, and not abſolving the Churchwardens from their
+excommunion till the they had done ſuch open and ignominious pennance, as the
+ſaid Biſhop enjoyned them, in three eminent Pariſh Churches within his
+Dioceſſe as likewiſe at the Market-croſſe at <hi>Wells.</hi> The
+performance of which pen<g ref="char:EOLhyphen"/>nance wrought ſo farre upon <hi>Iames Wheeler</hi>
+one of the ſaid Churchwar<g ref="char:EOLhyphen"/>dens that thereupon he fell into a conſumption
+through griefe, and ſo dyed; ſaying often before his death, <hi>that the
+performance of the ſaid pennance being ſo ignominious and againſt his
+Conſcience, was the cauſe of his death;</hi> and by his vexatious ſuites
+in his Eccleſiaſticall Courts he hath raiſed his Regiſters office in
+former Biſhops time not worth above 60, pound <hi>per annum,</hi> to the
+value of 3 or 4 hundred pounds or more by the yeare.</p>
+            <p n="8">8. That the ſaid Biſhop hath undoubtedly and againſt
+Law, preſſed the Oathes <hi>Ex Officio</hi> upon divers inhabitants of
+<hi>Wells</hi> without com<g ref="char:EOLhyphen"/>plaint or accuſation, and likewiſe the Oath of
+<hi>Deanes Rurall,</hi> with other unlawfull Oathes, both upon the Clergie and
+Laity within his Dioceſſe, and other places; and ſuſpended and
+excommunicated divers of them that ref<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed to take the ſaid Oathes: and that not only in his
+Conſi<g ref="char:EOLhyphen"/>ſtory Court but in his owne private Chamber, there being none but a
+R<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſter with him.</p>
+            <p n="9">9. That he hath for his owne Lucre and gaine extorted divers
+ſummes of money againſt Law, as of one <hi>Fort</hi> one of the
+Churchwardens of <hi>South Pederton</hi> twenty pounds. And alſo of one
+Maſter <hi>Francklyn</hi> the ſorne of three pounds (beſides the ſome
+of ten pounds given in Fees and rewards to the Biſhops ſervants) for
+inſtituting him into the Perſonage of <hi>Standerweeke.</hi> And hath
+likewiſe exacted the ſumme of ſixe ſhillings eight pence or more, of
+divers Churchwardens and Pariſhes within his Dioceſſe, onely for not
+ringing the Bells when hee paſſed through the bounds of their ſeverall
+Pariſhes, in his Uiſitation, though privately without giving them any
+notice of his comming that way,</p>
+            <p n="10">10. That he hath againſt Law deferred and denyed
+Inſtitutions upon <pb n="7" facs="tcp:158236:5"/>preſentations to Benefices,
+practiſing in the interim under hand to con<g ref="char:EOLhyphen"/>ſetre the ſonie upon his
+Sonne ſervants, or other dependants, and to de<g ref="char:EOLhyphen"/>prive the Patrons of their
+rights: and hath even by force, againſt all law and equity, conſeired
+ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of the Benefices upon his
+ſonne, ſervants, and dependants, <hi>viz</hi> upon his ſonne, the
+Parſonage of <hi>Buckland,</hi> and endea<g ref="char:EOLhyphen"/>vored by the lik force to conferre
+the Perſonage of <hi>Standerweeke</hi> upon his ſaid ſonne, and other
+Parſonage upon his ſervants and a lives and did againſt Law and by force
+conferr the Uicarage of <hi>Hynstridge</hi> upon his ſervant
+<hi>Flamſtead.</hi>
+            </p>
+            <p n="11">11. That hee hath it ampered with witneſſes examined by
+and before him upon Oath, to make them teſtifie untruths, and hath
+falſified their depoſitions, ſetting downe his owne words, and what hee
+would have them depoſe, inſtead of what they teſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied; as namely in the Caſe of the Church wardens of
+<hi>Becking<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on,</hi> and in that of
+M. <hi>I<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes</hi> Miniſter of
+<hi>Beer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rocombe.</hi>
+            </p>
+            <p n="12">12. <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is a
+common vexer, perſecuter and moleſter of worthy and
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miniſters, and a countenancer
+of thoſe who are negligent <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as
+namely, he hath vexed and, perſecuted, Mr, <hi>Chambers</hi> Mr,
+<hi>Thomas</hi> Mr. <hi>Croake,</hi> Mr. <hi>Newton,</hi> Mr. <hi>Barnard,</hi>
+Mr. <hi>Cunnant,</hi> Mr. <hi>Roſwell,</hi> and many, other good and pa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>efull Miniſters of the Dioceſſe,
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> him Chaplaine Mr. <hi>Egl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rf<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld Gawler, and <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+with other vitious Miniſters, and Mr: <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and others <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p n="13">13. If <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+ſaid Biſhop according to Law, did ſeverely exact and im<g ref="char:EOLhyphen"/>poſe upon lives
+of the Clergie within his Dioceſſe, the new Oath pre<g ref="char:EOLhyphen"/>ſcribed by theſixt
+Canon of the late pretended Synod and cauſed and and inforced them to take
+the ſaid illegall Oath, himſelfe kiſſing the Seale or the
+Commiſſion which authoriſed him to exact the faid Oath of his Clergy, and
+kneeling downe upon his knees tooke the Oath firſt ,and their adminiſtred
+it to others; ſaying, that <hi>he was glad in his heart that this Oath was
+impoſed upon all the Clergy of England for now the true Children of the
+Church, would be knowne, from the ſpurious and Baſtards.</hi> And
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hath
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to conferre Orders upon ſuch
+who refuſed to take the Oath, as namely upon one Mr. <hi>Gibbens.</hi> And
+hath enforced the ſaid Oath upon divers, he hath ordained Miniſters ſince
+the making thereof.</p>
+            <p n="14">14. That the ſaid Biſhop was a great fomenter and
+incourager of the late-diviſions and wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res betweene the Kingdoms of <hi>England and Scot<g ref="char:EOLhyphen"/>land</hi>
+conventing and urging the Clergy of his Dioceſſe to contribute a a liberall
+benevolence towards the maintenance of the ſaid warres, uſing this ſpeech
+as one motive to induce them to this contribution; <hi>that it was</hi>
+               <note n="*" place="margin">Biſhop Hall labours to ex<g ref="char:EOLhyphen"/>cuſe it, in his Anſwer to
+the vindication. p. 14.15. as if the Biſhop mean: it only in a leſs evil
+conſtructi<g ref="char:EOLunhyphen"/>on, as referring to the northern uſe of that quarrell, not our
+proſecuti<g ref="char:EOLhyphen"/>on, when as it is moſt cleare by the words and circum<g ref="char:EOLhyphen"/>ſtances,
+that he meant quite contrary</note> 
+               <hi>Bellum Epiſcopale</hi> and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <hi>that what eve<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cauſe the King had ex<g ref="char:EOLhyphen"/>preſſed in
+the Declaration <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this war was for us,</hi>
+meaning <hi>us the Biſhops.</hi> And whereas ſome of the Clergie
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the payment of ſo large a
+<hi>Benevolence</hi> as the ſaid Biſhop demanded, in regard of their
+po<g ref="char:EOLhyphen"/>verty, and becauſe they were ſtill in their firſt fruits, when they
+were <pb n="8" facs="tcp:158236:6" rendition="simple:additions"/>free from <hi>Subſidies,</hi> the ſaid
+Biſhop threamed by his power to put more Names and Horſes upon them,
+ſaying <hi>that as they would not
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the King with their purſes,
+they ſhould ſerve him with their Armes.</hi> And thereupon compelled them
+to pay the ſummes he demanded of them is gainſt Law as namely Mr.
+<hi>Roſwell</hi> Mr. <hi>Iames,</hi> Mr. <hi>Abbot,</hi> and others, And not
+contented herewith, the ſaid Biſhop pretending that there was divers poore
+Uicars and Miniſters in his Dioceſſe that were not able to pay the
+benevolence, ſo that he could not raiſe the ſumme hee expected thereupon
+directed his letters to divers of his welthier Clergie, cauſing ſome of
+them to pay a<note n="*" place="margin">Which ſome of the Countie conceive hee
+hath purſed up or diſcharged his owne ſhare in this contri<g ref="char:EOLhyphen"/>bution
+there<g ref="char:EOLhyphen"/>with.</note> fee and contribution.</p>
+            <p n="15">15. That the ſaid Biſhop not content with this firſt
+benevolence hath ſince that compelled divers of his Clergy to pay all or part
+of the ſixe il<g ref="char:EOLhyphen"/>legall ſubſidies or benevolences impoſed by the late
+pretended Synod, without confirmation of Parliament, threatning to
+excommunicate and deprive them <hi>ipſo facto</hi> who failed payment of it
+at the dayes prefixed by the Synod and ſent out a proces to Mr.
+<hi>Newton,</hi> miniſter of <hi>Taunton</hi> (even whiles the ſaid Towne
+was much viſited by the peſtilence) long before the ſaid Subſidy or
+Benevolence was due, to enjoyne him to pay it punctually at the day, or elſe
+hee would inflict on him the penalties preſcribed by this Synod; and uſed
+theſe ſpeeches, that <hi>if they did not pay the ſaid Subſidies or
+Benevolence they ſhould be ground to powder.</hi>
+            </p>
+            <p n="16">16. And the ſaid Commons by Proteſtation ſaving to
+themſelves the libertie of exhibiting at any time hereafter any other
+accuſation or im<g ref="char:EOLhyphen"/>peachment againſt the ſaid Biſhop; And alſo of
+replying to the anſwers that he ſaid Biſhop ſhall make unto the ſaid
+Articles, or to any of them, and of offering proofes alſo of the
+premiſſes or any of them, or any other impeachment or occaſion that
+ſhall be exhibited by them (as the cauſe ſhall according to the courſe
+of Parliaments require) doe pray that the ſaid Biſhop may be put to
+anſwer to all and every the premiſſes. And that ſuch proceedings,
+examinations, tryalls, and judgements may bee upon every of them had and
+uſed, as is agreeable to Law and Juſtice.</p>
+            <p>By theſe Articles of impeachment you may eaſily diſcover
+what a deſperately prophane, impious, turbulent Pilate the Biſhop is, even
+ſuch a one, whom no age (I thinke) in many particulars is able to paralell,
+whoſe prodigiouſly prophane ſpeeches and actions proclaies to all the
+world, that our preſent Pilates impieties have made them fit for judge<g ref="char:EOLhyphen"/>ment;
+yea good for nothing but to be caſt out and trampled under feete of men, as
+the very excrements and off-ſcourings of all things.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
